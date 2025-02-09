@@ -11,3 +11,8 @@ Jupyter notebook contains
      ![](taxi.gif)
 
 more comments in the notebook itself
+
+
+### lander_dqn/ - solving "LunarLander-v3" RL sample gym environment using DQN with 
+
+![](0209.gif)
