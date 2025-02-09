@@ -8,11 +8,11 @@ Jupyter notebook contains
    - implementation of policy optimization using Q-Learning method
    - visualization sample
 
-     ![](taxi.gif)
+     ![](taxi/taxi.gif)
 
 more comments in the notebook itself
 
 
 ### lander_dqn/ - solving "LunarLander-v3" RL sample gym environment using DQN with 
 
-![](0209.gif)
+![](lander_dqn/0209.gif)
